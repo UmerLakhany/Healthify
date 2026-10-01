@@ -1,6 +1,7 @@
 import Header from './components/layout/Header'
 import Hero from './components/sections/Hero'
 import Stats from './components/sections/Stats'
+import About from './components/sections/About'
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
       <main id="main">
         <Hero />
         <Stats />
+        <About />
       </main>
     </>
   )
