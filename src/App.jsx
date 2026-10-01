@@ -1,4 +1,6 @@
 import Header from './components/layout/Header'
+import Footer from './components/layout/Footer'
+import WhatsAppButton from './components/layout/WhatsAppButton'
 import Hero from './components/sections/Hero'
 import Stats from './components/sections/Stats'
 import About from './components/sections/About'
@@ -32,6 +34,8 @@ export default function App() {
         <Faq />
         <CallToAction />
       </main>
+      <Footer />
+      <WhatsAppButton />
     </>
   )
 }
