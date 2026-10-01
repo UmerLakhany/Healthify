@@ -300,7 +300,7 @@ You can upload the `dist/` folder to any static hosting service.
 
 - **Icons:** [Lucide](https://lucide.dev) (ISC License), plus custom line icons in `src/components/icons/HealthIcons.jsx`
 - **Fonts:** [Google Fonts](https://fonts.google.com) (Newsreader, Inter, Caveat, Aref Ruqaa, Roboto Condensed), all under the SIL Open Font License
-- **Photography:** the images in `src/assets/images/` are placeholders matching the design. Confirm you have the rights to every image, or replace them with your own brand photos, before publishing.
+- **Photography:** the images in `src/assets/images/` are placeholders matching the design.
 
 ---
 
