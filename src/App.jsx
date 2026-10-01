@@ -5,6 +5,7 @@ import About from './components/sections/About'
 import Services from './components/sections/Services'
 import Advantages from './components/sections/Advantages'
 import Plans from './components/sections/Plans'
+import Steps from './components/sections/Steps'
 
 export default function App() {
   return (
@@ -23,6 +24,7 @@ export default function App() {
         <Services />
         <Advantages />
         <Plans />
+        <Steps />
       </main>
     </>
   )
