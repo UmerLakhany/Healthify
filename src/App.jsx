@@ -8,6 +8,7 @@ import Plans from './components/sections/Plans'
 import Steps from './components/sections/Steps'
 import Testimonials from './components/sections/Testimonials'
 import Faq from './components/sections/Faq'
+import CallToAction from './components/sections/CallToAction'
 
 export default function App() {
   return (
@@ -29,6 +30,7 @@ export default function App() {
         <Steps />
         <Testimonials />
         <Faq />
+        <CallToAction />
       </main>
     </>
   )
