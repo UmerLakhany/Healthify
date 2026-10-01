@@ -4,6 +4,7 @@ import Stats from './components/sections/Stats'
 import About from './components/sections/About'
 import Services from './components/sections/Services'
 import Advantages from './components/sections/Advantages'
+import Plans from './components/sections/Plans'
 
 export default function App() {
   return (
@@ -21,6 +22,7 @@ export default function App() {
         <About />
         <Services />
         <Advantages />
+        <Plans />
       </main>
     </>
   )
