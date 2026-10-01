@@ -6,6 +6,8 @@ import Services from './components/sections/Services'
 import Advantages from './components/sections/Advantages'
 import Plans from './components/sections/Plans'
 import Steps from './components/sections/Steps'
+import Testimonials from './components/sections/Testimonials'
+import Faq from './components/sections/Faq'
 
 export default function App() {
   return (
@@ -25,6 +27,8 @@ export default function App() {
         <Advantages />
         <Plans />
         <Steps />
+        <Testimonials />
+        <Faq />
       </main>
     </>
   )
